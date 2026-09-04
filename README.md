@@ -9,6 +9,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Anjani2707/Leetcode-/tree/master/0596-classes-with-at-least-5-students) |
 | [1068-product-sales-analysis-i](https://github.com/Anjani2707/Leetcode-/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Anjani2707/Leetcode-/tree/master/1075-project-employees-i) |
+| [1251-average-selling-price](https://github.com/Anjani2707/Leetcode-/tree/master/1251-average-selling-price) |
 | [1693-daily-leads-and-partners](https://github.com/Anjani2707/Leetcode-/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Anjani2707/Leetcode-/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
